@@ -1,7 +1,7 @@
 # Flex
 Splits a file into x constituents or joins n files into one. Also prints the contents of specified byte range in specified file.
 
-Flex = "F" i "l" e "Ex"cavate
+Flex = "**F**" i "**l**" e "**Ex**"cavate
 
 Especially useful for very large files that are difficult or too big to open in editors. Works on binary and text files. To edit
 contents of any file can use "rplc" utility, also one of my repos here on GitHub.
